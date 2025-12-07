@@ -1,5 +1,5 @@
 # Hi, I'm Behzad 👋  
-### Full-Stack Developer | C Sharp (.NET Core) | Next.js | Node.js | TypeScript | Python  
+### Full-Stack Developer | C# (.NET Core) | Next.js | Node.js | TypeScript | Python  
 
 I build fast, scalable, and production-ready web applications.  
 Specialized in **.NET Core API**, **Next.js full-stack**, and modern TypeScript-based architectures.  
